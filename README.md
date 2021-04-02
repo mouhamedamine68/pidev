@@ -1,3 +1,0 @@
-# pidev
-crud
-vt
